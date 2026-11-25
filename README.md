@@ -2,7 +2,7 @@
 
 A float and cash management system for GCash, Maya, and load retailers, built with HTML, CSS, and JavaScript. Record every transaction, watch each wallet balance, and close the day with a cash count.
 
-**Live Site:**
+**Live Site:** https://noreentolentino.github.io/cash-in-and-load-shop-system/
 
 ## Features
 
