@@ -19,15 +19,3 @@ A float and cash management system for GCash, Maya, and load retailers, built wi
 ## Run locally
 
 The app uses ES modules, so serve the folder with a static server such as the VS Code Live Server extension.
-
-## Project structure
-
-```
-cash-in-load-shop-system/
-├── index.html
-├── css/style.css
-└── js/
-    ├── app.js
-    ├── render.js
-    └── store.js
-```
